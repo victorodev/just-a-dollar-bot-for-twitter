@@ -1,6 +1,6 @@
 This bot was entirely written in Python and makes use of several libraries, such as:
 
-+ Team
++ Time
 + Beautifulsoup
 + Requests
 + Tweety
